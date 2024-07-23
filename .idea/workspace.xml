@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80b76550-2e15-491e-9c75-aef349e2f469" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/name matcher tool.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.~lock.names.html#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bertmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btn_givennames_synonyms.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lu7199btv1.tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/name_matching_model.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/names.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pairs_df" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pairs_df.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testmodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tokenizer.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vectorizer.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +43,8 @@
     "Python.model.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager" selected="Python.finedbertmodel">
